@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CodeReviewInClass</string>
+    <string name="passwordlabel">passwordLabel</string>
+    <string name="enter_password">enter_password</string>
+    <string name="username_hint">Username_hint</string>
+    <string name="username_label">Username_label</string>
+</resources>
