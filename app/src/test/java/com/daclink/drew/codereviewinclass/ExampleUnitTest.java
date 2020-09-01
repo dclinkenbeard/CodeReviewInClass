@@ -14,4 +14,11 @@ public class ExampleUnitTest {
     public void addition_isCorrect() {
         assertEquals(4, 2 + 2);
     }
+
+    @Test
+    public void util_adderTest(){
+        assertEquals(5,  Util.adder(2,3));
+        assertEquals(7,  Util.adder(4,3));
+    }
 }
+
